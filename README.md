@@ -23,7 +23,6 @@ We repeat the process until the number becomes 0 and count the steps.
 ## Language
 C++
 
-
 ## Student
 Sneha Sakharkar  
 BSc IT
